@@ -1,0 +1,39 @@
+《列表清单》
+
+coatings以下都属于substrate（基底）
+
+反光布一般有油
+heavy metal（HM）
+total（T）躺（comp）3，AT a,b,c
+
+金属除外，单独做
+
+
+
+solute(S)不躺，BS，CS,DS
+
+（pht）
+躺（comp）3，Aa ,b,c
+
+
+
+
+
+evenflo 的模拟胃酸溶解测试要另外加一个canada的测试
+
+金属若是零件间可以拆开，则要分开写
+
+
+
+
+沃尔玛WAL-MART
+的pht只做coating和软胶，高危胶
+
+
+
+《DATA SHEET 》
+non-coatings   DS0306_T_Sub & DS0302_S_Sub
+
+样品小于10mg（0.0100g），不多的时候不做ASTM，parts里面的不算，
+
+比较多的则做8元素，heavy metal
